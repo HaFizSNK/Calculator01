@@ -1,0 +1,32 @@
+.row{
+    margin-top: 0px;
+    width: 20%;
+    background-color: black;
+    align-items: center;
+    margin-left: 500px;
+    height: 50px;
+    border-color: rgb(230, 16, 16);
+}
+.button{
+    width: 20%;
+    gap: 20px;
+    align-items: center;
+    margin-left: 8px;
+    border-color: rgb(49, 12, 214);
+    border-radius: 50px;
+    
+}
+.input{
+    margin-right: 20px;
+    color: black;
+}
+.container{
+    align-items: center;
+    background-color:;
+    
+
+}
+.button:hover{
+    background-color: rgb(28, 7, 212);
+    color: beige;
+}
